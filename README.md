@@ -51,3 +51,4 @@ builder.Services.AddIntakeAgentCore(configurator);
 ### Implementation
 
 The core functionality is provided by the `IDataProvider` interface, which must be implemented by the Intake Agent.
+

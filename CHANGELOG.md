@@ -19,3 +19,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Policy-based authentication system protecting all API endpoints
 - Intuitive Admin UI with support for custom pages and single sign-on via Keycloak integration
 - Comprehensive development utilities to streamline agent creation and deployment
+
+## [1.1.0]
+
+### Added
+- UpdateTargetEntity added to the GBS API contract
