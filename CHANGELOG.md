@@ -24,3 +24,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Added
 - UpdateTargetEntity added to the GBS API contract
+
+## [1.2.0]
+
+### Added
+- Logic to suggest a unique Alias value
+
