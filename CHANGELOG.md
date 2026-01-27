@@ -11,6 +11,16 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Changed
 ### Fixed
 
+## [2.1.1]
+
+### Changed
+- ToAlias in AliasUtil now uses Hyphens ("-") instead of Underscores ("_")
+
+## [2.1.0]
+
+### Added
+- GetQueueJobDetails added to the GBS API contract
+
 ## [2.0.0]
 
 ### Changed
